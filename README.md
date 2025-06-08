@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Alex171-studo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m **Godwill Alexis AGUEMON**
 
-<!---
-Alex171-studo/Alex171-studo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in **Cybersecurity, Ethical Hacking, Linux Systems, and Programming**
+- 🌱 I’m currently learning **C language, Bash scripting, network protocols, and cybersecurity frameworks** *(NIST, ISO, GDPR, etc.)*
+- 💞️ I’m looking to collaborate on **open-source security tools, automation scripts, and system utilities written in C**
+- 📫 How to reach me:  
+  📧 godwillaguemonbg@gmail.com  
+  🔗 [LinkedIn](https://www.linkedin.com/in/godwill-aguemon-51a38436a/)  
+  🐙 [GitHub Portfolio](https://github.com/Alex171-studo/Alexis_portfolio.git)
+
+- 😄 Pronouns: **He/Him**  
